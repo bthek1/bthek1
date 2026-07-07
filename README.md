@@ -130,8 +130,8 @@ class BenedictThekkel:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://bthek1.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Docs-6AD3F7?style=for-the-badge&logo=quarto&logoColor=white" />
+<a href="https://bthek1.github.io/bthek1_blog/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-6AD3F7?style=for-the-badge&logo=quarto&logoColor=white" />
 </a>
 
 </div>
