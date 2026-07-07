@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benedict%20Thekkel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%2FRAG%20Engineer&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benedict%20Thekkel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%2F%20Product%20Engineer%20%E2%80%A2%20Hardware%20%E2%80%A2%20ML%2FAI&descAlignY=60&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=620&lines=Building+end-to-end+production+systems;Designing+scalable+cloud+architectures;Crafting+RAG+%26+LLM-powered+pipelines;Containerising+everything+with+Docker+%26+K8s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=640&lines=Building+production+full-stack+systems+end+to+end;Electrical+engineer+who+ships+software;From+circuit+boards+to+cloud+deployments;Full-stack+%E2%80%A2+hardware+%E2%80%A2+ML%2FAI" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=bthek1&color=6AD3F7&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/bthek1?label=Followers&style=flat-square&color=6AD3F7" />
-<img src="https://img.shields.io/badge/Focus-RAG%20%26%20LLMs-6AD3F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-6AD3F7?style=flat-square" />
 
 </div>
 
@@ -20,19 +20,22 @@
 
 ```python
 class BenedictThekkel:
-    role        = ["Full-Stack Developer", "Cloud Architect", "AI Engineer"]
-    languages   = ["Python", "TypeScript", "JavaScript"]
-    frameworks  = ["Django", "FastAPI", "Flask", "React"]
-    cloud       = ["AWS", "Azure", "GCP"]
-    devops      = ["Docker", "Kubernetes", "Terraform", "GitHub Actions"]
-    ai_focus    = ["RAG Pipelines", "Vector Databases", "LLM Integration"]
+    title       = "Full-Stack / Product Engineer"
+    trained_as  = "Electrical Engineer (UQ, 2024)"
+    builds      = "complete products end to end - device to model"
+    languages   = ["Python", "TypeScript", "C/C++", "SQL"]
+    backend     = ["Django", "Django REST Framework", "PostgreSQL"]
+    frontend    = ["React", "TypeScript"]
+    infra       = ["AWS", "Docker", "Terraform", "Ansible", "CI/CD"]
+    hardware    = ["ESP32", "Arduino", "PCB design", "firmware"]
+    ml_ai       = ["PyTorch", "computer vision", "LLM agents (Ollama)"]
     philosophy  = "The best systems are invisible to their users."
 ```
 
-- 🔭 &nbsp;Building **production-grade** full-stack apps end-to-end — database to deployment
-- 🤖 &nbsp;Deep in **RAG** — chunking, embedding, reranking, and multi-agent orchestration
-- ☁️ &nbsp;Designing **serverless & container-native** architectures across AWS / Azure / GCP
-- 🧠 &nbsp;Currently exploring **vector databases** (pgvector, Weaviate, Pinecone) and LLM fine-tuning
+- 🔭 &nbsp;Building **production full-stack platforms** end to end — schema, auth, REST API, front-end, and cloud deploy (healthcare patient-outcomes platform at Recovery Metrics)
+- ⚡ &nbsp;**Electrical engineer by training** — comfortable all the way down to firmware and PCBs (Phisaver ESP32 IoT switchbox; contributed a firmware feature now running across the deployed fleet)
+- 🤖 &nbsp;**Growing ML/AI practice** — PyTorch & computer vision, plus local LLM agents, a self-expanding knowledge graph, and pgvector search in my Stock Market Analyser
+- 🧩 &nbsp;Happiest at the **intersection of hardware, software, and ML/AI**
 
 ---
 
@@ -40,34 +43,49 @@ class BenedictThekkel:
 
 <div align="center">
 
-**Languages & Frameworks**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Frontend**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI / ML & Databases**
+**Data, ML & AI**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Hardware & Embedded**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
 </div>
 
@@ -110,6 +128,10 @@ class BenedictThekkel:
 &nbsp;
 <a href="https://www.linkedin.com/in/benedict-thekkel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://bthek1.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Docs-6AD3F7?style=for-the-badge&logo=quarto&logoColor=white" />
 </a>
 
 </div>
