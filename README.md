@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Logo.svg" width="132" alt="Benedict Thekkel" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Benedict%20Thekkel&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%2F%20Product%20Engineer%20%E2%80%A2%20Hardware%20%E2%80%A2%20ML%2FAI&descAlignY=60&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
